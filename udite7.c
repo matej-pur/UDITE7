@@ -2,7 +2,7 @@
 
 int main(){
 
-    printf("Pocatecni commit");
+    printf("druhy commit");
 
     return 0;
 }
