@@ -2,7 +2,7 @@
 
 int main(){
 
-    printf("Pocatecni commit");
+    printf("testovani kolize");
 
     return 0;
 }
